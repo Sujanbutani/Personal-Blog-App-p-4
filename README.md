@@ -26,7 +26,7 @@ This is a **Personal Blog API** built using **Node.js** and **MongoDB**. It allo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sujanbutani/Task-Management-p-2-.git
+   git clone https://github.com/Sujanbutani/Personal-Blog-App-p-4.git
 
 2. Install dependencies:
 
